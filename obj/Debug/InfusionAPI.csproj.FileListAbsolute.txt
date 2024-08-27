@@ -1,0 +1,6 @@
+C:\Users\andys\source\repos\InfusionAPI\InfusionAPI\bin\Debug\InfusionAPI.dll
+C:\Users\andys\source\repos\InfusionAPI\InfusionAPI\bin\Debug\InfusionAPI.pdb
+C:\Users\andys\source\repos\InfusionAPI\InfusionAPI\obj\Debug\InfusionAPI.csproj.AssemblyReference.cache
+C:\Users\andys\source\repos\InfusionAPI\InfusionAPI\obj\Debug\InfusionAPI.csproj.CoreCompileInputs.cache
+C:\Users\andys\source\repos\InfusionAPI\InfusionAPI\obj\Debug\InfusionAPI.dll
+C:\Users\andys\source\repos\InfusionAPI\InfusionAPI\obj\Debug\InfusionAPI.pdb
